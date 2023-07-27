@@ -1,0 +1,10 @@
+👋 Hi, I’m @Key-runnnnnnn
+👀 I’m interested in exploring the fascinating fields of AI, Machine Learning, Web Development, Data Structures, Algorithms (DSA), Ethical Hacking, and Internet of Things (IoT).
+🌱 I’m currently learning the fundamentals and advanced concepts of these subjects to deepen my knowledge and practical skills.
+💞️ I’m looking to collaborate on projects that involve applying AI and Machine Learning to solve real-world problems, creating innovative web applications, developing efficient DSA solutions, securing digital systems through ethical hacking practices, and building IoT-based solutions.
+📫 How to reach me: You can send me a direct message here on GitHub or email me at [laptopk61@gmail.com]. Let's join forces to make a positive impact in these exciting fields!
+
+<!---
+Key-runnnnnnn/Key-runnnnnnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

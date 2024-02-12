@@ -1,5 +1,5 @@
 👋 Hi, I’m @Key-runnnnnnn
-👀 I’m interested in exploring the fascinating fields of AI, Machine Learning, Web Development, Data Structures, Algorithms (DSA), and Internet of Things (IoT).
+👀 I’m interested in exploring the fascinating fields of AI, Web Development, Data Structures, Algorithms (DSA), and Internet of Things (IoT).
 🌱 I’m currently learning the fundamentals and advanced concepts of these subjects to deepen my knowledge and practical skills.
 💞️ I’m looking to collaborate on projects that involve applying AI and Machine Learning to solve real-world problems, creating innovative web applications, developing efficient DSA solutions.
 📫Let's join forces to make a positive impact in these exciting fields!

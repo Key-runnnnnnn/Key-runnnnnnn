@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Kiran Dhawan from Ahmednagar, Maharashtra<br><br>- 🔭 I’m a final year Engineering student @IIITR<br>- 📚 I'm MERN stack Developer<br>- ⚡ Let's learn and grow together!</p>
+<p align="left">I'm Kiran Dhawan from Ahmednagar, Maharashtra<br><br>- 🎓 I’m a recent graduate B.Tech student from IIIT Ranchi<br>- 💻 I'm Full stack Developer<br>- 🚀 Built real-time wallet dashboards, scalable microservices & e-commerce platforms <br> - 🎯 Constantly learning & pushing limits (both in tech & track) <br>- ⚡ Let's learn and grow together!</p>
 
 ###
 
@@ -66,6 +66,27 @@
 ###
 
 <br clear="both">
+
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|-----------|-------------|-------|
+| 🔗 [AirJourney](https://github.com/Key-runnnnnnn/Airline-Backend-System.git) | Flight booking backend with Microservices, RabbitMQ, and AWS EC2 | `Node.js`, `MySQL`, `RabbitMQ`, `AWS` |
+| 🔗 [HomeShine](https://house-cleaning-web-app.vercel.app/) | Book home cleaning with ease | `Next.js`, `Tailwind`, `Hygraph CMS`, `Descope Auth` |
+| 🔗 [StudyNotion](https://study-notion-olive-gamma.vercel.app/) | Online learning platform with payments | `MERN`, `Razorpay`, `Cloudinary` |
+
+
+---
+
+### 🏆 Achievements
+
+- 🧠 Solved **500+ DSA problems** across LeetCode, GFG & CodeChef
+- 🥇 **Global Rank 28** out of 35K+ in CodeChef Starters 147
+- 🥈 **Silver in 4x400m**, 🥉 Bronze in 400m @ Inter-IIIT Sports Meet
+- 🏃‍♂️ Led IIIT Ranchi Athletics team to back-to-back wins (2023-2025)
 
 ![snake gif](https://github.com/Key-runnnnnnn/Key-runnnnnnn/blob/output/github-contribution-grid-snake-dark.svg)
 

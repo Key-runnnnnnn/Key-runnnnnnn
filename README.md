@@ -70,17 +70,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|-----------|-------------|-------|
-| 🔗 [AirJourney](https://github.com/Key-runnnnnnn/Airline-Backend-System.git) | Flight booking backend with Microservices, RabbitMQ, and AWS EC2 | `Node.js`, `MySQL`, `RabbitMQ`, `AWS` |
-| 🔗 [HomeShine](https://house-cleaning-web-app.vercel.app/) | Book home cleaning with ease | `Next.js`, `Tailwind`, `Hygraph CMS`, `Descope Auth` |
-| 🔗 [Career Up](https://study-notion-olive-gamma.vercel.app/) | Online learning platform with payments | `MERN`, `Razorpay`, `Cloudinary` |
-
-
----
-
 ### 🏆 Achievements
 
 - 🧠 Solved **500+ DSA problems** across LeetCode, GFG & CodeChef

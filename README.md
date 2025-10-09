@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Kiran Dhawan from Ahilyanagar, Maharashtra<br><br>- 🎓 I’m a recent graduate B.Tech student from IIIT Ranchi<br>- 💻 I'm Full stack Developer<br>- 🚀 Built real-time wallet dashboards, scalable microservices & e-commerce platforms <br> - 🎯 Constantly learning & pushing limits (both in tech & track) <br>- ⚡ Let's learn and grow together!</p>
+<p align="left">I'm Kiran Dhawan from Ahilyanagar, Maharashtra<br><br>- 🎓 I’m a recent graduate B.Tech student from IIIT Ranchi<br>- 💻 I'm Full stack Developer<br>- 🚀 Built real-time dashboards, scalable microservices & e-commerce platforms <br> - 🎯 Constantly learning & pushing limits (both in tech & track) <br>- ⚡ Let's learn and grow together!</p>
 
 ###
 
